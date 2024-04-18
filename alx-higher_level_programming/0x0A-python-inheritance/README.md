@@ -1,0 +1,1 @@
+Inheritance is categorized based on the hierarchy followed and the number of parent classes and subclasses involved. It is an excellent representation of relationships in the real world. It allows code reuse. It doesn't require us to create the same code repeatedly and again.
