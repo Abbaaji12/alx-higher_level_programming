@@ -1,1 +1,0 @@
-Inheritance is a powerful feature in Python that facilitates code reuse and the creation of orderly, hierarchical models of real-world situations. It encourages the reduction of redundancy and increases the predictability and consistency of behavior across similar kinds of objects.
